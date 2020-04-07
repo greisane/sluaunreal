@@ -13,6 +13,7 @@
 	"CanContainContent": false,
 	"IsBetaVersion": false,
 	"Installed": false,
+    "EnabledByDefault": false,
 	"Modules": [
 		{
 			"Name": "lua_wrapper",
